@@ -1,0 +1,28 @@
+element.style {
+    opacity: 0;
+    display: none;
+    width: auto;
+    top: 2306px;
+    left: 1358px;
+}
+
+#tt {
+    position: absolute;
+    display: block;
+    z-index: 2147483647;
+}
+
+div {
+    display: block;
+}
+
+
+body, html {
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    color: #666;
+}
